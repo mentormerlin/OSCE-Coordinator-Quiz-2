@@ -194,13 +194,6 @@ const questions = [
     {
         id: 22,
         type: 'mcq',
-        question: "When does full implementation of face-to-face verbalisation begin?",
-        options: ["July 2025", "August 2025", "September 2025", "October 2025"],
-        correctIndex: 2
-    },
-    {
-        id: 23,
-        type: 'mcq',
         question: "Where should family members wait during onsite training?",
         options: [
             "In classroom",
@@ -211,7 +204,7 @@ const questions = [
         correctIndex: 2
     },
     {
-        id: 24,
+        id: 23,
         type: 'mcq',
         question: "What is the Day 5 Feedback Form used for?",
         options: [
@@ -223,65 +216,17 @@ const questions = [
         correctIndex: 1
     },
     {
-        id: 25,
+        id: 24,
         type: 'mcq',
         question: "After Day 5, who should candidates contact for doubts?",
         options: ["Finance Team", "Batch Mentor", "Coordinator Manager", "HR"],
         correctIndex: 1
     },
     {
-        id: 26,
+        id: 25,
         type: 'mcq',
         question: "What is the check-out time at ibis hotel?",
         options: ["11 AM", "3 PM", "1 PM", "12 PM"],
         correctIndex: 3
     },
-    {
-        id: 27,
-        type: 'mcq',
-        question: "What happens if you want daily housekeeping for a short stay?",
-        options: [
-            "Included free",
-            "£10 per day extra charge",
-            "Depends on availability",
-            "Not allowed"
-        ],
-        correctIndex: 1
-    },
-    {
-        id: 28,
-        type: 'mcq',
-        question: "Which meal is available upon request at ibis?",
-        options: [
-            "Continental breakfast",
-            "Buffet lunch",
-            "English breakfast",
-            "Dinner combo"
-        ],
-        correctIndex: 2
-    },
-    {
-        id: 29,
-        type: 'mcq',
-        question: "What should be avoided to prevent hotel property damage?",
-        options: [
-            "Heating liquids in kettles",
-            "Using TV too long",
-            "Opening windows",
-            "Leaving lights on"
-        ],
-        correctIndex: 0
-    },
-    {
-        id: 30,
-        type: 'mcq',
-        question: "What should be done before bed making by housekeeping?",
-        options: [
-            "Leave personal items on bed",
-            "Remove personal items from bed",
-            "Lock room",
-            "Turn off lights"
-        ],
-        correctIndex: 1
-    }
 ];
